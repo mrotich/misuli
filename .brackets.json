@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/micahrotich/Dropbox/Misuli/Misuli/platforms/ios/build/emulator/Misuli.app/www/plugins/org.apache.cordova.device/www/device.js"
+    ]
+}

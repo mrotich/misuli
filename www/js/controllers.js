@@ -12,8 +12,6 @@ angular.module('starter.controllers', [])
 .controller('ChatDetailCtrl', function ($scope, $stateParams, Chats) {
     $scope.chat = Chats.get($stateParams.chatId);
     // set the rate and max variables
-    $scope.rate = 3;
-    $scope.max = 5;
 })
 
 .controller('AccountCtrl', function ($scope) {
